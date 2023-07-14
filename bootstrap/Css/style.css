@@ -1,0 +1,32 @@
+.home-page{
+    background-image: url(../images/home-bg-3.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.mycolor{
+    background-color: #072829;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50% , -45%);
+}
+
+.myfont1{
+    font-family: 'Caprasimo', cursive;
+    color: #ffffff;
+}
+
+.myfont2{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #545252;
+    font-size: 25px;
+}
+
+.myfont3{
+    color: wheat;
+}
